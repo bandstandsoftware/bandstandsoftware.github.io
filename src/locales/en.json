@@ -1,0 +1,10 @@
+{
+    "lang": {
+        "name": "en"
+    },
+    "hero": {
+        "main": "We build software solutions that help you scale.",
+        "sub": "Be it large scale data processing, machine learning, or cloud infrastructure, we've got you covered.",
+        "cta": "Send us an email"
+    }
+}

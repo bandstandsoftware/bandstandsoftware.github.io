@@ -1,0 +1,10 @@
+{
+    "lang": {
+        "name": "it"
+    },
+    "hero": {
+        "main": "Sviluppiamo software che aiuta la tua azienda a crescere.",
+        "sub": "Che si tratti di Big Data, Machine Learning, o infrastruttura Cloud, noi ci siamo.",
+        "cta": "Mandaci un email"
+    }
+}
