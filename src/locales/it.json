@@ -10,5 +10,26 @@
     "nav": {
         "english_link": "https://bandstand.dev/",
         "italian_link": "#"
+    },
+    "services": {
+        "software_development": {
+            "title": "Sviluppo Software",
+            "description": "Realizziamo le tue idee. <br />Creiamo web app, servizi, strumenti per l'automazione e molto altro."
+        },
+        "cloud_architecture": {
+            "title": "Architettura in Cloud",
+            "description": "Fai crescere i tuoi servizi con il Cloud.<br />Possiamo aiutarti a pianificare e gestire la migrazione al cloud, o la migrazione tra diversi cloud provider e architetture multi-cloud."
+        },
+        "education": {
+            "title": "Educazione e mentoring",
+            "description": "Fai training al tuo team<br />Insegnamo programmazione funzionale, sistemi cloud e molto altro."
+        },
+        "data": {
+            "title": "Big Data e Machine Learning",
+            "description": "Non ci sono dati troppo grandi. Non ci sono problemi troppo piccoli.<br />Ti aiutiamo a processare i tuoi dati, dargli senso ed estrarre informazioni utili attraverso tecniche di analytics e machine learning."
+        }
+    },
+    "footer": {
+        "cta": "Send us an email now"
     }
 }

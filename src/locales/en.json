@@ -10,5 +10,26 @@
     "nav": {
         "english_link": "#",
         "italian_link": "https://bandstand.dev/it/"
+    },
+    "services": {
+        "software": {
+            "title": "Software development",
+            "description": "Making your ideas come true. <br />We create web apps, services, automation tools and more."
+        },
+        "cloud_architecture": {
+            "title": "Cloud architecture",
+            "description": "Grow your services in the cloud.<br />We can help you plan and manage your migration to the cloud, or migrate between cloud providers and multi-cloud architectures."
+        },
+        "education": {
+            "title": "Education and mentoring",
+            "description": "Grow your team's skills. <br />We offer personalized education and mentoring in Functional Programming, Cloud and more."
+        },
+        "data": {
+            "title": "Data wrangling and machine learning",
+            "description": "No data is too large. No problem too small.<br />We can help you process it, make sense of it and extract valuable information via analytics and machine learning."
+        }
+    },
+    "footer": {
+        "cta": "Send us an email now"
     }
 }
