@@ -12,6 +12,7 @@
         "italian_link": "#"
     },
     "services": {
+        "title": "Servizi",
         "software_development": {
             "title": "Sviluppo Software",
             "description": "Realizziamo le tue idee. <br />Creiamo web app, servizi, strumenti per l'automazione e molto altro."
