@@ -15,14 +15,14 @@
         "title": "Servizi",
         "software_development": {
             "title": "Sviluppo Software",
-            "description": "Realizziamo le tue idee. <br />Creiamo web app, servizi, strumenti per l'automazione e molto altro."
+            "description": "Realizziamo le tue idee. <br />Creiamo web app, servizi, strumenti per l'automazione aziendale e molto altro."
         },
         "cloud_architecture": {
             "title": "Architettura in Cloud",
             "description": "Fai crescere i tuoi servizi con il Cloud.<br />Possiamo aiutarti a pianificare e gestire la migrazione al cloud, o la migrazione tra diversi cloud provider e architetture multi-cloud."
         },
         "education": {
-            "title": "Educazione e mentoring",
+            "title": "Training e mentoring",
             "description": "Fai training al tuo team<br />Insegnamo programmazione funzionale, sistemi cloud e molto altro."
         },
         "data": {
